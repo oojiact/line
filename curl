@@ -1,0 +1,2 @@
+curl -X POST -H 'Authorization: Bearer oojiactYQBYxra1FXdlou8dlrEL9BLufv6d82kOCP7Rax57cqQ' -F 'message=foobar' \
+https://notify-api.line.me/api/notify
